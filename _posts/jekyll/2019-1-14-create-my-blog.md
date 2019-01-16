@@ -3,8 +3,8 @@ layout: post
 title: create my blog
 categories: jekyll
 image: jekyll.jpg
-date: 2019-1-15 15:47:05
-pid: 20190115-154705
+date: 2019-1-14 15:47:05
+pid: 20190114-154705
 pin: 9
 ---
 jekyll搭建博客时，遇到很多问题，印象比较深刻的是，更换博客主题风格的时候，运行jekyll serve命令时，会提示:
