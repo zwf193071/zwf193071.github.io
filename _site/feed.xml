@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucy Zhu</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://zwf193071.github.io/</link>
+    <atom:link href="http://zwf193071.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 16 Jan 2019 14:27:46 +0800</pubDate>
+    <lastBuildDate>Wed, 16 Jan 2019 14:27:46 +0800</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>create my blog</title>
+        <description>&lt;p&gt;jekyll搭建博客时，遇到很多问题，印象比较深刻的是，更换博客主题风格的时候，运行jekyll serve命令时，会提示:&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;You have already activated public_suffix 3.0.3, but your Gemfile requires public_suffix 2.0.5
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;以上一系列类似的版本问题，知道大概原因是_config.yml里面的文件版本与Gemfile要求的不一致，但总不能一行行傻傻地&lt;br /&gt;
+修改。通过运行&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle install&lt;/code&gt;加上&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle update&lt;/code&gt;命令，再次运行&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;命令时，发现仍然出现版本提示错误，改用&lt;br /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;命令时，本地可以成功运行，该命令确保你使用的便是Gemfile配置的gem版本&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 15 Jan 2019 23:47:05 +0800</pubDate>
+        <link>http://zwf193071.github.io/2019/01/15/create-my-blog.html</link>
+        <guid isPermaLink="true">http://zwf193071.github.io/2019/01/15/create-my-blog.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+  </channel>
+</rss>

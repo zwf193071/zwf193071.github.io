@@ -1,0 +1,77 @@
+{
+  "posts":
+  [
+  
+  
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+      
+        
+      
+    
+      
+        
+
+    
+    
+
+    
+    
+    {
+      "title": "create my blog",
+      "words": "74",
+      "author": "Lucy Zhu",
+      "date": "2019-01-15 23:47:05",
+      "url": "/2019/01/15/create-my-blog.html",
+      "pid": "20190115-154705",
+      "pin":  
+                9
+              ,
+      
+      "image": 
+                  
+                    "/w3c/images/jekyll.jpg"
+                  
+              ,
+      "categories":
+      [
+        
+            "jekyll"
+        
+      ],
+      "excerpt":
+      
+      
+        "jekyll搭建博客时，遇到很多问题，印象比较深刻的是，更换博客主题风格的时候，运行jekyll serve命令时，会提示:You have already activated public_suffix 3.0.3, but your Gemfile requires public_suffix 2.0.5以上..."    
+      
+    }
+    
+  
+  ],
+
+  
+  
+  
+  
+    
+      
+    
+  
+  
+
+  "categories":
+  [
+    
+        "jekyll"
+    
+  ]
+}
